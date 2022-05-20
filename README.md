@@ -24,6 +24,8 @@
       format
       split
       len (forthe length of characters)
+Day4 : List and Loops
+      
 
 ## Week 2 : Electronics for innovators
 
