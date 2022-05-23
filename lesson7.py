@@ -8,3 +8,4 @@ print(school[0] , pupil[0])
 sentence = f"Hello my name is {pupil}"
 for pupil in pupil:
  print(f'Hello i am pupil {pupil}')
+ print(school[-1])
