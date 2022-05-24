@@ -1,3 +1,6 @@
+#!/usr/bin/python
+
+
 #LOOPS
 school = ('Joy' , 'Hope' , 'Mercy' , 'Happy')
 pupil = ('Mark' , 'Peace' , 'Patience' , 'Amani')

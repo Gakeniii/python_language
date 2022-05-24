@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
-
-#Write a program to withdraw ksh25000 if the acc_bal is between ksh100000-200000
+#Write a program to withdraw ksh25000 if the acc_bal is between ksh100000-200000 , 30% to be deducted for acc_bal ksh500000 - ksh 1M, for acc_bal above 1M ksh 15000 is deducted
 
 acc_bal = int(input("Enter you acc_bal"))
 

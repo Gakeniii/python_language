@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #create a programme
 
 #area

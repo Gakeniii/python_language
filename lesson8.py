@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #tabs \t
 print("Monday\tTuesday\tWednesday\tThursday\tFriday\t")
 #newline \n

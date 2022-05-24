@@ -1,3 +1,6 @@
+#!/usr/bin/python
+
+
 #Write a programme that gets user input and add 10000 to her account if she is between 25-30 years
 
 age = input("What is your age?")

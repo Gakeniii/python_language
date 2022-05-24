@@ -1,4 +1,4 @@
-
+#!/usr/bin/python
 #python basics
 
 #this is a comment

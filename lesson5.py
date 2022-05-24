@@ -1,3 +1,6 @@
+#!/usr/bin/python
+
+
 #methods
 name = "Sifa Lookia"
 name ="Ada Lovelace"
