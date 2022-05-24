@@ -1,0 +1,14 @@
+#!/usr/bin/python
+#################################
+#For lops with lists
+#      Name : Sifa Lookia
+#      Date : 24 / 05 /2022
+##################################
+
+squares = []#empty list
+for numbers in range (0, 10):
+    square = number**2
+    squares.append(square)
+
+print(sqaures)
+
