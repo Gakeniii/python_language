@@ -8,9 +8,6 @@
 #      Date : 23/ 09 /2003 
 ##################################
 
-from traceback import print_tb
-from typing import Pattern
-
 
 print("number\tsquare")
 print("==============")

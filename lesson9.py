@@ -36,4 +36,3 @@ else:
     print("You are too young to drive")
 
 
-#Write a programme that gets user input and add 10000 to her account if she is between 25-30 years

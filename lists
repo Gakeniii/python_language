@@ -7,8 +7,7 @@
 
 squares = []#empty list
 for numbers in range (0, 10):
-    square = number**2
+    square = (numbers**2)
     squares.append(square)
 
-print(sqaures)
 
