@@ -22,13 +22,25 @@ print(person['number'])
 print(person)
 del person ['number']
 print(person)
-person= {'name':'Athelia lutomia' 
-          'address' , 'lavington' 
-          'number':'+254717003992'}
+person= {'Name','Athelia lutomia' 
+         'Address','lavington' 
+         'Number','+254717003992'}
 
 #Loop in over in dictionaries
-for key, value in person.items():
-        print(f"{value}:{key}")
+#for key, value in person.items():
+#        print(f"{value}:{key}")
+
+
+#Using get to access the value in a dictionary
+print(person.get["location', 'the 'location'is non existence"])
+
+
+#####################################################################
+
+mary_fav_food = ['beef','chicken','vegetable']
+jane_fav_food = ['rice','ugali','potatoe']
+
+
 
 
 

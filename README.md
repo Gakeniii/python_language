@@ -40,17 +40,21 @@ git push main
 
 #What are dictionaries
 #dictionaries is a collection of value pairs
-
-#Syntax: dictionaries = {'key':'value'}
-colour= {'colour':'red'}
-vehicle= {'type':'toyota' ,'plate_number':'KYZ45'}
-print(type(colours))
 #Define, Add , Remove
 #Looping over dictionaries
 #D in D, List in D, D in list
 
 DATA STRUCTURES >>>>> CONTAINER FOR STORING DATA IN AN ORGANIZED WAY
 
+#LOOP
+i. for loops
+#operators
+< = less than
+<= less than equal to
+> greater than
+>= greater than equal to
+== equal to
+= assignment operator
 
 
 ##Week 3 : Introduction to 
