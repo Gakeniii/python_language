@@ -26,4 +26,16 @@ a = int(input("enter the number"))
 r = int(input("enter the number"))
 n = int(input("enter the number"))
 for i in range(1, n + 1):
+    n_t = a * r**(i-1)
+    print(n_t)
+
+a = int(input("enter the number"))
+r = int(input("enter the number"))
+n = int(input("enter the number"))
+
+if(r>1):
+    sum_n = (a*(r**n))/(r-1)
+else:
+    sum_n = (a*(r**n))/(1-r)
+print("Sum of n terms:" ,sum_n)
     
