@@ -15,3 +15,5 @@ food = {
     'jane':['rice','ugali','vegetable']
     }
 print(food)
+for key, value in food.items():
+    print(f"{key}:{value}")
