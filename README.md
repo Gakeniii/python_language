@@ -48,6 +48,11 @@ DATA STRUCTURES >>>>> CONTAINER FOR STORING DATA IN AN ORGANIZED WAY
 
 #LOOP
 i. for loops
+ii. while loops
+iii. if else loops
+learnt how to print a pyramid of asterics using for loop
+prnting a diamond using for loops
+
 #operators
 < = less than
 <= less than equal to
@@ -56,8 +61,22 @@ i. for loops
 == equal to
 = assignment operator
 
+#LISTS
+#Empyt lists
+how to add an item to an empty list
+how to delete an item from a list
+
+arithmetic progression
+geometric progression
+
 
 ##Week 3 : Introduction to 
+#Tuples 
+#quandratic equations
+#Functions 
+   Definition of a function eg using (def)
+   Calling a function ; eg(say_hello())
+   Functions paramters such as (x and y)
 
 ##Week 4 : Java script , CSS , HTML
 
