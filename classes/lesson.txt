@@ -1,0 +1,20 @@
+#!/usr/bin/python
+#################################
+#      File : File operations
+#      Name : Sifa Gakeni
+#      Date : 06 / 06 /2022
+##################################
+
+
+ This is a normal text file 
+ Learning python is fun but tricky asf
+ Today is chilly and I hate cold.
+ 
+f = open("lesson.txt") opens a file
+f = open("lesson.txt",'w') opens file for writing
+f = open("lesson.txt",'x') creates new file
+f = open("lesson.txt",'t') opens fle in text mode (can write on it)
+f = open("lesson.txt",'a') opens file for appending
+f = open("lesson.txt",'b') opens file in binary cannot write on it
+f = open("Lesson.txt",'+') opens file for updating a file
+

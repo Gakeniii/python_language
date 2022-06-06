@@ -4,7 +4,7 @@ class person:
         self.age= _age
 
     def sayHi(self):
-        print('Hello, my name is' + self.name 'and I am' + self.age 'years old')
+print("Hello, my name is" + self.name "and I am" + self.age "years old")
 
 person1 = person('Malawa' , str(17))
 person1.sayHi()
