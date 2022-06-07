@@ -77,8 +77,58 @@ geometric progression
    Definition of a function eg using (def)
    Calling a function ; eg(say_hello())
    Functions paramters such as (x and y)
+#Classes
+ #Class dog:   #(sample of a class)
+    #def att(name,age)
+    #def breed(type,gender)
+ #dog.att(leo, 5)
+ #dog.breed(germanshepherd , male)
+
+#Continuation of functions
+ parsing a function
+ Using default parameters in a function
+ How to return a function
+ Getting the square of numbers in a function
+ returning a dictionary eg
+ 
+ #Returning  dictionary from a function
+def create_full_name(first_name,second_name):
+    person = {'first':first_name, 'second':second_name}
+    return person
+print(create_full_name("Sifa","Gakeni"))
+
+
+#CLASSES 
+eg of classes
+def __init__(self, _name, _age):
+        self.name= _name
+        self.age= _age
+
+    def sayHi(self):
+        print("Hello, my name is" + self.name "and I am" + self.age "years old")
+
 
 ##Week 4 : Java script , CSS , HTML
+#FILE OPERATIONS
+open file       file_name.open()
+Write file      .write()
+Append          .append() add at the tail end
+Close           .close()
+Read            .read()
+Seek            .seek()
+ one can seek a:
+   character or a line.
+Tell            .tell()
+Readline        .readline() reads a whole line
+
+f = open("lesson.txt") opens a file
+f = open("lesson.txt",'w') opens file for writing
+f = open("lesson.txt",'x') creates new file
+f = open("lesson.txt",'t') opens fle in text mode (can write on it)
+f = open("lesson.txt",'a') opens file for appending
+f = open("lesson.txt",'b') opens file in binary cannot write on it
+f = open("Lesson.txt",'+') opens file for updating a file
+
 
 ##week 5 : Design Thinking ,Ux ,Ui
 

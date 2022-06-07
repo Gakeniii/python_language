@@ -40,3 +40,10 @@ print(student)
 #Removing key values from a dictionary
 del student["fav-food"]
 print(student)
+
+
+#Returning  dictionary from a function
+def create_full_name(first_name,second_name):
+    person = {'first':first_name, 'second':second_name}
+    return person
+print(create_full_name("Sifa","Gakeni"))

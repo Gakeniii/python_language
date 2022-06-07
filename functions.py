@@ -47,3 +47,42 @@ product_numbers(4,9)
 product_numbers(23,87)
 product_numbers(95,83)
 
+#Using default parameter in a function
+def print_name ( name = "Sifa Gakeni"):
+    print(name)
+print_name("Joseph")
+
+#How to return a function
+#Return from a function
+
+
+#Returning  dictionary from a function
+def create_full_name(first_name,second_name):
+    person = {'first':first_name, 'second':second_name}
+    return person
+print(create_full_name("Sifa","Gakeni"))
+
+#write a function that gets the square of numbers
+def powers(num,power):
+    power_num = num**power
+    return power_num
+print(powers(6,4))
+
+def get_full_name(f_name,s_name):
+    full_name = f_name+ " " + s_name
+    return full_name.title()
+print(get_full_name("Sifa","Gakeni"))
+
+#Returning  dictionary from a function
+def create_full_name(first_name,second_name):
+    person = {'first':first_name, 'second':second_name}
+    return person
+print(create_full_name("Sifa","Gakeni"))
+
+#Parsing a list in a function
+def greet_friends(names):
+    for name in names:
+        msg = "Hello" + name.title() + "!"
+        print(msg)
+friends =[ 'Kamau' , 'Marx' , 'Nene' , 'Kameshi' , 'Dubs']
+greet_friends(friends)
