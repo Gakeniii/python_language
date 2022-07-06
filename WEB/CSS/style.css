@@ -1,0 +1,18 @@
+body{
+    margin: 5px;
+    background-color:salmon;
+}
+#nav-1{
+    background-color: blue;
+    margin: 20px;
+}
+
+/* how to comment*/
+.block{
+    background-color:green;
+}
+.meta-data{
+    color: red;
+    font-weight: 400;
+    font-size: 18px;
+}
